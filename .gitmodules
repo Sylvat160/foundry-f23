@@ -4,3 +4,6 @@
 [submodule "foundry-SS/lib/forge-std"]
 	path = foundry-SS/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "f-fundMe/lib/forge-std"]
+	path = f-fundMe/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
