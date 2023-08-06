@@ -12,3 +12,7 @@ docs/
 
 # Dotenv file
 .env
+
+# forge test --fork-url $FORK_URL ||forge test
+# forge snapshot --mt ...
+# forge inspect FundMe storageLayout
