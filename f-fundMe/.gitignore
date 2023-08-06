@@ -16,3 +16,4 @@ docs/
 # forge test --fork-url $FORK_URL ||forge test
 # forge snapshot --mt ...
 # forge inspect FundMe storageLayout
+# forge script script/Interactions.s.sol:FundFundMe
