@@ -16,3 +16,6 @@
 [submodule "foundry-SimpleStorage/lib/forge-std"]
 	path = foundry-SimpleStorage/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "foundry-FundMe/lib/forge-std"]
+	path = foundry-FundMe/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
