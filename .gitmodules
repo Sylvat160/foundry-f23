@@ -19,3 +19,9 @@
 [submodule "foundry-FundMe/lib/forge-std"]
 	path = foundry-FundMe/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "foundry-FundMe/lib/chainlink-brownie-contracts"]
+	path = foundry-FundMe/lib/chainlink-brownie-contracts
+	url = https://github.com/smartcontractkit/chainlink-brownie-contracts
+[submodule "foundry-FundMe/lib/foundry-devops"]
+	path = foundry-FundMe/lib/foundry-devops
+	url = https://github.com/Cyfrin/foundry-devops

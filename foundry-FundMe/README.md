@@ -64,3 +64,9 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+
+
+```shell
+forge test -vvv --fork-url $SEPOLIA_RPC_URL
+forge test -m functionName -vvv --fork-url $SEPOLIA_RPC_URL
+```
