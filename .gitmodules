@@ -55,3 +55,6 @@
 [submodule "foundry-defi-protocol/lib/forge-std"]
 	path = foundry-defi-protocol/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "foundry-defi-protocol/lib/foundry-devops"]
+	path = foundry-defi-protocol/lib/foundry-devops
+	url = https://github.com/cyfrin/foundry-devops
