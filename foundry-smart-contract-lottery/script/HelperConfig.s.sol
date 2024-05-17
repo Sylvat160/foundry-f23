@@ -62,7 +62,7 @@ contract HelperConfig is Script {
             callbackGasLimit: 500000, // 500,000 gas
             vrfCoordinatorV2: 0x8103B0A8A00be2DDC778e6e7eaa21791Cd364625,
             link: 0x779877A7B0D9E8603169DdbD7836e478b4624789,
-            deployerKey: vm.envUint("PRIVATE_KEY")
+            deployerKey: vm.envUint("METAMASK_PRIVATE_KEY")
         });
     }
 

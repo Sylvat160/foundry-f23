@@ -58,3 +58,9 @@
 [submodule "foundry-defi-protocol/lib/foundry-devops"]
 	path = foundry-defi-protocol/lib/foundry-devops
 	url = https://github.com/cyfrin/foundry-devops
+[submodule "foundry-defi-protocol/lib/openzeppelin-contracts"]
+	path = foundry-defi-protocol/lib/openzeppelin-contracts
+	url = https://github.com/openzeppelin/openzeppelin-contracts
+[submodule "foundry-defi-protocol/lib/chainlink-brownie-contracts"]
+	path = foundry-defi-protocol/lib/chainlink-brownie-contracts
+	url = https://github.com/smartcontractkit/chainlink-brownie-contracts
