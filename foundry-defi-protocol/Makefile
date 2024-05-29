@@ -27,6 +27,9 @@ build:; forge build
 
 test :; forge test 
 
+test_function_v:; forge test --match-test "$(FUNCTION_NAME)" -vvvvv
+test_function:; forge test --match-test "$(FUNCTION_NAME)"
+
 coverage :; forge coverage --report debug > coverage-report.txt
 
 snapshot :; forge snapshot
